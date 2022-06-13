@@ -8,7 +8,8 @@
           {%- endif -%}
               <p class="announcement-bar__message h5">
                 {{ block.settings.text | escape }}
-                {%- if block.settings.link == blank -%}
+                {{ block.settings.link }}
+                {%- if block.settings.link != blank -%}
                   {% render 'icon-arrow' %}
                 {%- endif -%}
               </p>

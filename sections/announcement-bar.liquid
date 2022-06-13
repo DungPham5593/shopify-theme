@@ -8,7 +8,6 @@
           {%- endif -%}
               <p class="announcement-bar__message h5">
                 {{ block.settings.text | escape }}
-                aaaaaaaaaaaaa
                 {%- if block.settings.link != blank -%}
                   {% render 'icon-arrow' %}
                 {%- endif -%}
@@ -33,7 +32,7 @@
         {
           "type": "text",
           "id": "text",
-          "default": "Welcome to our store",
+          "default": "Black Friday Sale: Save up to 60% with code BLACKFRIDAY",
           "label": "t:sections.announcement-bar.blocks.announcement.settings.text.label"
         },
         {

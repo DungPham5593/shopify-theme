@@ -2231,7 +2231,7 @@ input[type='checkbox'] {
   background-color: #fff !important;
 }
 
-.header-wrapper:hover ~ .header{
+.header-wrapper:hover ~ .header__active-menu-item{
   color: blue !important;
 }
 
@@ -2244,7 +2244,6 @@ input[type='checkbox'] {
   grid-template-areas: 'left-icon heading icons';
   grid-template-columns: 1fr 2fr 1fr;
   align-items: center;
-  color: red !important;
 }
 
 @media screen and (min-width: 990px) {
@@ -2639,7 +2638,8 @@ details[open] > .header__menu-item .icon-caret {
 
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
-  color: rgb(var(--color-foreground));
+  /* color: rgb(var(--color-foreground)); */
+  color: red !important;
   text-decoration: underline;
   text-underline-offset: 0.3rem;
 }

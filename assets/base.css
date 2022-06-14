@@ -2245,10 +2245,10 @@ input[type='checkbox'] {
 .header-wrapper:hover .header-background-color{
   height: 100%;
 }
-.header-wrapper:hover .header__active-menu-item{
+/* .header-wrapper:hover .header__active-menu-item{
   color: black !important;
   z-index: 2 !important;
-}
+} */
 .header-wrapper:hover .header__menu-item{
   color: black !important;
   z-index: 2 !important;

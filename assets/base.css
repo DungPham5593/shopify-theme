@@ -2231,7 +2231,7 @@ input[type='checkbox'] {
   background-color: #fff !important;
 }
 
-.header-wrapper:hover ~ .header__active-menu-item{
+.header-wrapper:hover .header__active-menu-item{
   color: blue !important;
 }
 

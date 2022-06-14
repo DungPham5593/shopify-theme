@@ -2223,7 +2223,7 @@ input[type='checkbox'] {
 /* Main Header Layout */
 .header-wrapper {
   display: block;
-  position: relative;
+  position: absolute;
   background-color: rgb(var(--color-background));
   /* height: calc(100vh - 40px); */
 }

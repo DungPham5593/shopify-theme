@@ -511,7 +511,7 @@
               {%- endif -%}
                 <form action="{{ routes.search_url }}" method="get" role="search" class="search search-modal__form">
                   <div class="field">
-                    <input class="search__input field__input"
+                    <input
                       id="Search-In-Modal"
                       type="search"
                       name="q"
@@ -532,7 +532,7 @@
                       {%- endif -%}
                     >
                     <label class="field__label" for="Search-In-Modal">{{ 'general.search.search' | t }}</label>
-                    {% comment %} <input type="hidden" name="options[prefix]" value="last"> {% endcomment %}
+                    <input type="hidden" name="options[prefix]" value="last">
                     <button class="search__button field__button" aria-label="{{ 'general.search.search' | t }}">
                       <svg class="icon icon-search" aria-hidden="true" focusable="false" role="presentation">
                         <use href="#icon-search">

@@ -2191,7 +2191,8 @@ input[type='checkbox'] {
   padding: 1rem 2rem;
   margin: 0;
   letter-spacing: .2rem;
-  font-family: "Twentieth Century", sans-serif;;
+  font-family: "Twentieth Century", sans-serif;
+  font-size: 1rem !important;
 }
 
 /* section-header */

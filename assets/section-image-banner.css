@@ -150,7 +150,7 @@
   width: 100%;
   background-image: url(https://cdn.shopify.com/s/files/1/0643/1545/7777/files/banner-2.jpg?v=1653391275);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position-y: 100px ;
 }
 

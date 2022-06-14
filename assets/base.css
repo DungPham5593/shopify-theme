@@ -2162,11 +2162,6 @@ input[type='checkbox'] {
   background-color: rgb(247, 238, 221) !important;
 }
 
-.announcement-text{
-  letter-spacing: .2rem !important;
-  color: red;
-}
-
 .announcement-bar__link {
   display: block;
   width: 100%;
@@ -2195,7 +2190,7 @@ input[type='checkbox'] {
   text-align: center;
   padding: 1rem 2rem;
   margin: 0;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.rem;
 }
 
 /* section-header */

@@ -2162,6 +2162,11 @@ input[type='checkbox'] {
   background-color: rgb(247, 238, 221) !important;
 }
 
+.announcement-text{
+  letter-spacing: .2rem;
+  color: red;
+}
+
 .announcement-bar__link {
   display: block;
   width: 100%;

@@ -9,7 +9,8 @@
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
 
     {%- if settings.favicon != blank -%}
-      <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
+      {% comment %} <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}"> {% endcomment %}
+      <link rel="icon" href="<%= BASE_URL %>Favi-Icon.png">
     {%- endif -%}
 
     {%- unless settings.type_header_font.system? and settings.type_body_font.system? -%}

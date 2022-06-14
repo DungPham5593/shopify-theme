@@ -2157,9 +2157,10 @@ input[type='checkbox'] {
 }
 
 .announcement-bar {
-  border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
+  /* border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08); */
   color: rgb(var(--color-foreground));
   background-color: rgb(247, 238, 221) !important;
+  height: 40px;
 }
 
 .announcement-bar__link {

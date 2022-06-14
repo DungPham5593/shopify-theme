@@ -2166,9 +2166,8 @@ input[type='checkbox'] {
 .announcement-bar__link {
   display: block;
   width: 100%;
-  padding: 0 2rem;
+  padding: 1rem 2rem;
   text-decoration: none;
-  margin: 0 auto;
 }
 
 .announcement-bar__link:hover {
@@ -2190,8 +2189,8 @@ input[type='checkbox'] {
 
 .announcement-bar__message {
   text-align: center;
-  padding: 1rem 2rem;
-  margin: 0;
+  padding: 0 2rem;
+  margin: 0 auto;
   letter-spacing: .2rem;
   font-family: "Twentieth Century", sans-serif;
   font-size: 1rem !important;

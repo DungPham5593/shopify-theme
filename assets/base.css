@@ -2163,7 +2163,7 @@ input[type='checkbox'] {
 }
 
 .announcement-text{
-  letter-spacing: .2rem;
+  letter-spacing: .2rem !important;
   color: red;
 }
 

@@ -2247,9 +2247,11 @@ input[type='checkbox'] {
 }
 .header-wrapper:hover .header__active-menu-item{
   color: black !important;
+  z-index: 2 !important;
 }
 .header-wrapper:hover .header__menu-item{
   color: black !important;
+  z-index: 2 !important;
 }
 .header-wrapper--border-bottom {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);

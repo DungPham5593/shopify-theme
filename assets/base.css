@@ -2166,8 +2166,9 @@ input[type='checkbox'] {
 .announcement-bar__link {
   display: block;
   width: 100%;
-  padding: 1rem 2rem;
+  padding: 0 2rem;
   text-decoration: none;
+  margin: 0 auto;
 }
 
 .announcement-bar__link:hover {

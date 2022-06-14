@@ -2245,16 +2245,14 @@ input[type='checkbox'] {
 .header-wrapper:hover .header-background-color{
   height: 100%;
 }
-/* .header-wrapper:hover .header__active-menu-item{
-  color: black !important;
-  z-index: 2 !important;
-} */
 .header-wrapper:hover .header__menu-item{
   color: black !important;
-  z-index: 2 !important;
 }
 .header-wrapper--border-bottom {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
+}
+.header-wrapper:hover .header__icon{
+  color: black !important;
 }
 
 .header {
@@ -2370,7 +2368,7 @@ input[type='checkbox'] {
 }
 
 .header__icon {
-  color: rgb(var(--color-foreground));
+  color: #fff;
 }
 
 .header__icon span {

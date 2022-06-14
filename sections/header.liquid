@@ -542,8 +542,12 @@
                   {%- if settings.predictive_search_enabled -%}
                     <div class="predictive-search predictive-search--header" tabindex="-1" data-predictive-search>
                       <div class="predictive-search__loading-state">
-                        <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
+                        {% comment %} <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
                           <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
+                        </svg> {% endcomment %}
+                        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" role="presentation" class="icon icon-search modal__toggle-open" fill="none" viewBox="0 0 15 17">
+                          <circle cx="7.11113" cy="7.11113" r="6.56113" stroke="currentColor" fill="none"></circle>
+                          <path d="M11.078 12.3282L13.8878 16.0009" stroke="currentColor" stroke-linecap="round" fill="none"></path>
                         </svg>
                       </div>
                     </div>

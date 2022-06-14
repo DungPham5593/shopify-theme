@@ -2227,6 +2227,7 @@ input[type='checkbox'] {
   background-color: rgb(var(--color-background));
   /* height: calc(100vh - 40px); */
   width: 100%;
+  opacity: 0;
 }
 
 .header-wrapper--border-bottom {

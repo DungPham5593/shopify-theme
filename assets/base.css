@@ -2161,6 +2161,8 @@ input[type='checkbox'] {
   color: rgb(var(--color-foreground));
   background-color: rgb(247, 238, 221) !important;
   height: 40px;
+  display: flex;
+  align-items: center;
 }
 
 .announcement-bar__link {

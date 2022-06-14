@@ -242,6 +242,7 @@
   align-items: center;
   justify-content: center;
   z-index: 2;
+  height: calc(100vh - 40px);
 }
 
 @media screen and (min-width: 750px) {
@@ -415,7 +416,7 @@
 @media screen and (max-width: 749px) {
   .banner--content-align-mobile-right .banner__buttons--multiple {
     justify-content: flex-end;
-  }
+  }banner__content banner__content--bottom-center page-width
 
   .banner--content-align-mobile-center .banner__buttons--multiple > * {
     flex-grow: 1;

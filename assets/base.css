@@ -1839,9 +1839,7 @@ details[open] > .share-button__fallback {
 .customer .field input::placeholder {
   opacity: 0;
 }
-.field__input{
-  border-radius: 50%;
-}
+
 .field__button {
   align-items: center;
   background-color: transparent;

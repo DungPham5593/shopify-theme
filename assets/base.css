@@ -1839,7 +1839,9 @@ details[open] > .share-button__fallback {
 .customer .field input::placeholder {
   opacity: 0;
 }
-
+.field__input{
+  border-radius: 50%;
+}
 .field__button {
   align-items: center;
   background-color: transparent;
@@ -2485,8 +2487,6 @@ details[open] .modal-overlay::after {
 
 .search-modal__form {
   width: 100%;
-  border: 1px solid #ccc;
-  border-radius: 50%;
 }
 
 .search-modal__close-button {

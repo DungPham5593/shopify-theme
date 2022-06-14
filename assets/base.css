@@ -2231,10 +2231,12 @@ input[type='checkbox'] {
   background-color: #fff !important;
 }
 
-.header-wrapper:hover .header__active-menu-item, .header__menu-item{
+.header-wrapper:hover .header__active-menu-item{
   color: black !important;
 }
-
+.header-wrapper:hover .header__menu-item{
+  color: black !important;
+}
 .header-wrapper--border-bottom {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
 }

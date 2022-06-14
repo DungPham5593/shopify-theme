@@ -2231,8 +2231,8 @@ input[type='checkbox'] {
   background-color: #fff !important;
 }
 
-.header-wrapper:hover .header__active-menu-item{
-  color: blue !important;
+.header-wrapper:hover .header__active-menu-item, .header__menu-item{
+  color: black !important;
 }
 
 .header-wrapper--border-bottom {
@@ -2575,7 +2575,6 @@ details[open] > .header__submenu {
   margin-left: -1.2rem;
   grid-area: navigation;
   display: none;
-  color: red !important;
 }
 
 .header--top-center .header__inline-menu,
@@ -2608,7 +2607,7 @@ details[open] > .header__submenu {
 .header__menu-item {
   padding: 1.2rem;
   text-decoration: none;
-  color: rgba(var(--color-foreground), 0.75);
+  color: #fff;
 }
 
 .header__menu-item:hover {
@@ -2639,7 +2638,7 @@ details[open] > .header__menu-item .icon-caret {
 .header__active-menu-item {
   transition: text-decoration-thickness var(--duration-short) ease;
   /* color: rgb(var(--color-foreground)); */
-  color: red !important;
+  color: #fff !important;
   text-decoration: underline;
   text-underline-offset: 0.3rem;
 }

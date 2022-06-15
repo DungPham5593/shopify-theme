@@ -2223,8 +2223,7 @@ input[type='checkbox'] {
 /* Main Header Layout */
 .header-wrapper {
   display: block;
-  position:sticky;
-  top: 0;
+  position: absolute;
   background-color: rgba(156, 39, 176, 0) !important;
   width: 100%;
 }
@@ -2249,9 +2248,9 @@ input[type='checkbox'] {
 .header-wrapper:hover .header__menu-item{
   color: black !important;
 }
-/* .header-wrapper--border-bottom {
+.header-wrapper--border-bottom {
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
-} */
+}
 .header-wrapper:hover .header__icon{
   color: black !important;
 }

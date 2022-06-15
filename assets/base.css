@@ -2224,7 +2224,7 @@ input[type='checkbox'] {
 .header-wrapper {
   display: block;
   position:sticky;
-  top: 40px;
+  top: 0;
   background-color: rgba(156, 39, 176, 0) !important;
   width: 100%;
 }

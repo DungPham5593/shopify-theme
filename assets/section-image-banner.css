@@ -2,7 +2,6 @@
   display: flex;
   position: relative;
   flex-direction: column;
-  height: calc(100vh - 40px) !important
 }
 
 .banner__box {
@@ -78,7 +77,6 @@
   }
 
   .banner--large:not(.banner--adapt) {
-    min-height: calc(100vh -40px);
   }
 
   .banner__content.banner__content--top-left {
@@ -245,7 +243,6 @@
   align-items: center;
   justify-content: center;
   z-index: 2;
-  height: calc(100vh - 40px) !important;
 }
 
 @media screen and (min-width: 750px) {

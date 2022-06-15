@@ -1,6 +1,6 @@
 .banner {
   display: flex;
-  position: absolute;
+  position: relative;
   top: -85px;
   flex-direction: column;
 }

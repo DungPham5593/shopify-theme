@@ -2152,6 +2152,7 @@ input[type='checkbox'] {
 #shopify-section-announcement-bar {
   z-index: 4;
   background-color: #fff;
+  color: rgba(var(--color-foreground),.75);
 }
 
 .announcement-bar {

@@ -123,6 +123,9 @@
   </symbol>
 </svg>
 <{% if section.settings.enable_sticky_header %}sticky-header{% else %}div{% endif %} class="header-wrapper color-{{ section.settings.color_scheme }} gradient{% if section.settings.show_line_separator %} header-wrapper--border-bottom{% endif %}">
+  <div class="header-background-color">
+    <span style="opacity: 0">aaa</span>
+  </div>
   <header class="header header--{{ section.settings.logo_position }} page-width{% if section.settings.menu != blank %} header--has-menu{% endif %}">
     {%- if section.settings.menu != blank -%}
       <header-drawer data-breakpoint="tablet">
@@ -516,6 +519,7 @@
                       type="search"
                       name="q"
                       value=""
+                      style="color: red; border-radius: 10px; outline: none; border: none"
                       placeholder="{{ 'general.search.search' | t }}"
                       {%- if settings.predictive_search_enabled -%}
                         role="combobox"

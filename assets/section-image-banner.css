@@ -356,7 +356,7 @@
   content: '';
   position: absolute;
   top: 0;
-  background: #000000;
+  background: #1f1f1f;
   opacity: 0;
   z-index: 1;
   width: 100%;

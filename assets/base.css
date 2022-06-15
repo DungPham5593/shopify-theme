@@ -2223,6 +2223,8 @@ input[type='checkbox'] {
 /* Main Header Layout */
 .header-wrapper {
   display: block;
+  position: fixed;
+  top: 0;
   background-color: rgba(156, 39, 176, 0) !important;
   width: 100%;
 }
@@ -2242,7 +2244,7 @@ input[type='checkbox'] {
   z-index: 0;
 }
 .header-wrapper:hover .header-background-color{
-  height: 100px;
+  height: 100%;
 }
 .header-wrapper:hover .header__menu-item{
   color: black !important;

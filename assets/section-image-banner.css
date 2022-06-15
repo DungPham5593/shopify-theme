@@ -1,6 +1,7 @@
 .banner {
   display: flex;
   position: relative;
+  top: -100px;
   flex-direction: column;
   height: calc(100vh - 40px) !important
 }

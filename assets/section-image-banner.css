@@ -151,8 +151,8 @@
 
 .banner-slide-show{
   width: 300vw;
-  display: flex;
-  justify-content: space-between;
+  display: flex !important;
+  justify-content: space-between !important;
 }
 
 .banner__media-half {

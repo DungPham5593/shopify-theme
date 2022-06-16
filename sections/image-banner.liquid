@@ -39,7 +39,7 @@
         if section.settings.image_2 != blank and section.settings.stack_images_on_mobile
           assign sizes = "(min-width: 750px) 50vw, 100vw"
         elsif section.settings.image_2 != blank
-          assign sizes = "50vw"
+          assign sizes = "100vw"
         else
           assign sizes = "100vw"
         endif
@@ -69,7 +69,7 @@
         if section.settings.image != blank and section.settings.stack_images_on_mobile
           assign sizes = "(min-width: 750px) 50vw, 100vw"
         elsif section.settings.image != blank
-          assign sizes = "50vw"
+          assign sizes = "100vw"
         else
           assign sizes = "100vw"
         endif
@@ -128,6 +128,11 @@
       "type": "image_picker",
       "id": "image_2",
       "label": "t:sections.image-banner.settings.image_2.label"
+    },
+    {
+      "type": "image_picker",
+      "id": "image_3",
+      "label": "t:sections.image-banner.settings.image_3.label"
     },
     {
       "type": "range",

@@ -939,7 +939,7 @@
         "image_2": {
           "label": "Second image"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Image overlay opacity"
         },
         "image_height": {
@@ -2034,7 +2034,7 @@
         "image": {
           "label": "Background image"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Image overlay opacity"
         },
         "show_background_image": {
@@ -2487,7 +2487,7 @@
                 "label": "Right"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Image overlay opacity"
             },
             "color_scheme": {

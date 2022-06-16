@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "แสดงคอนเทนเนอร์บนเดสก์ท็อป"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "ความทึบของการวางซ้อนรูปภาพ"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "แสดงคอนเทนเนอร์บนเดสก์ท็อป"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "ความทึบของการวางซ้อนรูปภาพ"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "ขวา"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "ความทึบของการวางซ้อนรูปภาพ"
             },
             "color_scheme": {

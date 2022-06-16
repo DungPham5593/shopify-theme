@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "在桌面顯示容器"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "圖片疊加層透明度"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "在桌面顯示容器"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "圖片疊加層透明度"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "靠右"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "圖片疊加層透明度"
             },
             "color_scheme": {

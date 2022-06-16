@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Hiện vùng chứa trên màn hình nền"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Độ chắn sáng của lớp phủ hình ảnh"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Hiện vùng chứa trên màn hình nền"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Độ chắn sáng của lớp phủ hình ảnh"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Bên phải"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Độ chắn sáng của lớp phủ hình ảnh"
             },
             "color_scheme": {

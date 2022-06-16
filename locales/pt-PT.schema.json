@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Mostrar recetores no desktop"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Opacidade da sobreposição da imagem"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Mostrar recetores no desktop"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Opacidade da sobreposição da imagem"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Direita"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Opacidade da sobreposição da imagem"
             },
             "color_scheme": {

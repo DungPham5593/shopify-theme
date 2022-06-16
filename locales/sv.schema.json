@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Visa ruta på skrivbord"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Bildens opacitet för överlagring"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Visa ruta på skrivbord"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Bildens opacitet för överlagring"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Höger"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Bildens opacitet för överlagring"
             },
             "color_scheme": {

@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Pokaż kontener na komputerze"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Nieprzezroczystość nakładki obrazu"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Pokaż kontener na komputerze"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Nieprzezroczystość nakładki obrazu"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Prawa strona"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Nieprzezroczystość nakładki obrazu"
             },
             "color_scheme": {

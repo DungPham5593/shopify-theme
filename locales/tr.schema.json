@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Masaüstünde kapsayıcıyı göster"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Görsel yer paylaşımı opaklığı"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Masaüstünde kapsayıcıyı göster"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Görsel yer paylaşımı opaklığı"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Sağ"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Görsel yer paylaşımı opaklığı"
             },
             "color_scheme": {

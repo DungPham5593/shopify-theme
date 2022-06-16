@@ -304,7 +304,7 @@
         "step": 2,
         "unit": "px",
         "label": "t:settings_schema.global.settings.corner_radius.label",
-        "default": 20
+        "default": 40
       },
       {
         "type": "header",
@@ -953,7 +953,7 @@
         "step": 2,
         "unit": "px",
         "label": "t:settings_schema.global.settings.corner_radius.label",
-        "default": 20
+        "default": 40
       },
       {
         "type": "select",

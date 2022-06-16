@@ -149,6 +149,10 @@
   width: 100%;
 }
 
+.banner-slide-show{
+  width: 300vw;
+}
+
 .banner__media-half {
   width: 50%;
 }
@@ -229,7 +233,7 @@
   }
 
   .banner--stacked .banner__media-image-half {
-    width: 100%;
+    width: 300%;
   }
 }
 

@@ -939,6 +939,9 @@
         "image_2": {
           "label": "Second image"
         },
+        "image_3": {
+          "label": "Three image"
+        },
         "image_overlay": {
           "label": "Image overlay opacity"
         },

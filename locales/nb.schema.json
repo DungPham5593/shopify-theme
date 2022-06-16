@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Vis beholder på datamaskin"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Gjennomsiktighet for bildeoverlegg"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Vis beholder på datamaskin"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Gjennomsiktighet for bildeoverlegg"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Høyre"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Gjennomsiktighet for bildeoverlegg"
             },
             "color_scheme": {

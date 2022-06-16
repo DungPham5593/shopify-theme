@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Näytä säilö pöytäkoneella"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Peittokuvan läpikuultavuus"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Näytä säilö pöytäkoneella"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Peittokuvan läpikuultavuus"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Oikealla"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Peittokuvan läpikuultavuus"
             },
             "color_scheme": {

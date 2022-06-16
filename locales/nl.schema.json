@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Container op desktop weergeven"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Dekking van afbeeldingsoverlay"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Container op desktop weergeven"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Dekking van afbeeldingsoverlay"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Rechts"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Dekking van afbeeldingsoverlay"
             },
             "color_scheme": {

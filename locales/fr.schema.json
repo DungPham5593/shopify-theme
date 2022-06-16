@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Afficher le conteneur sur le bureau"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Opacité de la superposition d'images"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Afficher le conteneur sur le bureau"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Opacité de la superposition d'images"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Droite"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Opacité de la superposition d'images"
             },
             "color_scheme": {

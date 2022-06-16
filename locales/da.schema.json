@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Vis container på skrivebord"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Billedoverlejringens uigennemsigtighed"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Vis container på skrivebord"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Billedoverlejringens uigennemsigtighed"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Højre"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Billedoverlejringens uigennemsigtighed"
             },
             "color_scheme": {

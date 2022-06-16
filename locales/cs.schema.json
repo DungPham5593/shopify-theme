@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Zobrazit kontejner na počítači"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Neprůhlednost překryvu obrázku"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Zobrazit kontejner na počítači"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Neprůhlednost překryvu obrázku"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Doprava"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Neprůhlednost překryvu obrázku"
             },
             "color_scheme": {

@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Mostrar contenedor en la computadora"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Opacidad de la sobreposición de imagen"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Mostrar contenedor en la computadora"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Opacidad de la sobreposición de imagen"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Derecha"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Opacidad de la sobreposición de imagen"
             },
             "color_scheme": {

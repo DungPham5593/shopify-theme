@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "デスクトップ上にコンテナを表示"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "画像のオーバーレイ不透明率"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "デスクトップ上にコンテナを表示"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "画像のオーバーレイ不透明率"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "右"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "画像のオーバーレイ不透明率"
             },
             "color_scheme": {

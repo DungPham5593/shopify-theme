@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "Container auf dem Desktop anzeigen"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Deckkraft der Bildüberlagerung"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "Container auf dem Desktop anzeigen"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "Deckkraft der Bildüberlagerung"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "Rechts"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "Deckkraft der Bildüberlagerung"
             },
             "color_scheme": {

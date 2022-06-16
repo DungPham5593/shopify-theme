@@ -830,7 +830,7 @@
         "show_text_box": {
           "label": "데스크톱에 컨테이너 표시"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "이미지 오버레이 투명도"
         },
         "header": {
@@ -2243,7 +2243,7 @@
         "show_text_box": {
           "label": "데스크톱에 컨테이너 표시"
         },
-        "image_overlay_opacity": {
+        "image_overlay": {
           "label": "이미지 오버레이 투명도"
         },
         "color_scheme": {
@@ -2487,7 +2487,7 @@
                 "label": "오른쪽"
               }
             },
-            "image_overlay_opacity": {
+            "image_overlay": {
               "label": "이미지 오버레이 투명도"
             },
             "color_scheme": {

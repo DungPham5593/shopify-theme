@@ -90,11 +90,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "fbcc12a1-c9e7-4532-83d9-dc3defe76879": {
-          "type": "shopify:\/\/apps\/yanet-professional-faq-page\/blocks\/app-block\/b70c1465-6820-4911-8d5d-2299efd66134",
-          "settings": {
-          }
         }
       },
       "block_order": [
@@ -110,8 +105,7 @@
         "collapsible-row-1",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "fbcc12a1-c9e7-4532-83d9-dc3defe76879"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,

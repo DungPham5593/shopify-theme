@@ -95,6 +95,11 @@
           "type": "shopify:\/\/apps\/shoptestdungpham2\/blocks\/app-block\/33dc17c6-7ef6-4fab-b943-34cc0c825581",
           "settings": {
           }
+        },
+        "c9abd720-c710-4989-9b25-af74ddfa16f8": {
+          "type": "shopify:\/\/apps\/yanet-professional-faq-page\/blocks\/app-block\/70a2dae1-3366-4a96-8a4c-76f923402474",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -111,7 +116,8 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "76e6c0b5-f7de-44df-a4bc-8a7b0db383b2"
+        "76e6c0b5-f7de-44df-a4bc-8a7b0db383b2",
+        "c9abd720-c710-4989-9b25-af74ddfa16f8"
       ],
       "settings": {
         "enable_sticky_info": true,

@@ -91,11 +91,6 @@
             "share_label": "Share"
           }
         },
-        "2e45c282-6143-4995-ba94-42d5856a4d17": {
-          "type": "shopify:\/\/apps\/shoptestdungpham2\/blocks\/app-block\/33dc17c6-7ef6-4fab-b943-34cc0c825581",
-          "settings": {
-          }
-        },
         "9bc97edf-d00f-40dd-a5c6-a5232545bac8": {
           "type": "shopify:\/\/apps\/dp-shop\/blocks\/app-block\/3c16d53e-037f-4a3a-abf1-e054532428ff",
           "settings": {
@@ -116,7 +111,6 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "2e45c282-6143-4995-ba94-42d5856a4d17",
         "9bc97edf-d00f-40dd-a5c6-a5232545bac8"
       ],
       "settings": {

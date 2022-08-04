@@ -215,10 +215,17 @@
           "type": "shopify:\/\/apps\/dp-shop\/blocks\/app-block\/3c16d53e-037f-4a3a-abf1-e054532428ff",
           "settings": {
           }
+        },
+        "e74d60d7-e398-4d2a-bb7c-273eda2517c8": {
+          "type": "shopify:\/\/apps\/faq-accordion-faq-page\/blocks\/simesy-faq\/467857aa-e495-4e93-917b-0cc9234489fd",
+          "settings": {
+            "id": "62eb6912ff10065b42e432ba"
+          }
         }
       },
       "block_order": [
-        "73d98b93-bc7f-4e14-baee-d2223cb0f6ff"
+        "73d98b93-bc7f-4e14-baee-d2223cb0f6ff",
+        "e74d60d7-e398-4d2a-bb7c-273eda2517c8"
       ],
       "settings": {
         "include_margins": true

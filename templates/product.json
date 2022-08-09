@@ -91,11 +91,6 @@
             "share_label": "Share"
           }
         },
-        "ae4d0e26-1b78-4930-9ba5-ce65b863247e": {
-          "type": "shopify:\/\/apps\/yanet-professional-faq-page\/blocks\/app-block\/70a2dae1-3366-4a96-8a4c-76f923402474",
-          "settings": {
-          }
-        },
         "418ed347-4edb-42b2-a845-5c92efb1b5b6": {
           "type": "shopify:\/\/apps\/yanet-professional-faq-page\/blocks\/app-block\/b70c1465-6820-4911-8d5d-2299efd66134",
           "settings": {
@@ -116,7 +111,6 @@
         "collapsible-row-2",
         "collapsible-row-3",
         "share",
-        "ae4d0e26-1b78-4930-9ba5-ce65b863247e",
         "418ed347-4edb-42b2-a845-5c92efb1b5b6"
       ],
       "settings": {
